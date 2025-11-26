@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "Minimal Node scaffold for Hello-World repo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
