@@ -28,7 +28,7 @@ Setup (one-time)
 # Create any missing files and initialize the project if necessary
 npm run setup
 
-# Verifies everything: installs deps and runs tests
+# Verifies everything: installs deps, runs tests, and shows git status
 npm install
 npm test
 ```
